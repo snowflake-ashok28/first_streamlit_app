@@ -1,8 +1,9 @@
 import streamlit
 
-streamlit.title('My First Streamlit APP')
-streamlit.header('Breakfast menu')
+streamlit.title('My Mom\'s New Healthy Diner')
 
-streamlit.text('Omega3 & oat meal')
-streamlit.text('Idly and Sambar')
-streamlit.text('Chapathi and curry')
+streamlit.header(' Breakfast Menu')
+streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥗 Kale, Spinach & Rocket Smoothie')
+streamlit.text('🐔 Hard-Boiled Free-Range Egg')
+streamlit.text('🥑 Avocado Toast')
